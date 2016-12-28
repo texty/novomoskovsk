@@ -35,7 +35,7 @@ p {
 
 
 
-/* ======== HEADER ======== */ 
+/* ======== HEADER ======== */
 
 .navbar {
     background-color: #eeeeee;
@@ -97,7 +97,7 @@ p {
 /* ======== Footer ======== */
 
 #footer {
-    position: absolute;
+    /*position: absolute;*/
     bottom: 0;
     width: 100%;
     padding: 2rem;
@@ -164,4 +164,3 @@ p {
 .logo {margin-top: 15px;}
 .p2 {display: none;}
 }
-
